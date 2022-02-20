@@ -1,3 +1,7 @@
+# google auth credentials
+youtube_data_oauth_credentials.json
+token.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
